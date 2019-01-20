@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Hitchhike_v1" parent="AppTheme">
+        <item name="android:navigationBarColor">@color/LightBlue</item>
+        <item name="colorPrimaryDark">@color/colorAccent</item>
+        <item name="colorPrimary">@color/LightBlue</item>
+        <item name="colorAccent">@color/Blue</item>
+        <item name="android:statusBarColor">@color/LightBlue</item>
+        <item name="android:colorForeground">@color/LightBlue</item>
+        <item name="android:textColorPrimary">@color/Black</item>
+    </style>
+</resources>
